@@ -1,0 +1,13 @@
+.header{
+  width: 100%;
+}
+.header__inner{
+  max-width: 200px;
+}
+.ul{
+  display: flex;
+  justify-content: space-between;
+}
+.ul:first-child{
+  margin-right: 40px;
+}
